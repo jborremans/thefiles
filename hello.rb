@@ -1,6 +1,6 @@
 def hello
 
-	"jupiter"
+	"mars"
 
 	"pluto"
 
