@@ -1,5 +1,5 @@
 def hello
-	"world"
 
-	"mars"
+	"moon"
+
 end
