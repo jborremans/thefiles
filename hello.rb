@@ -1,5 +1,5 @@
 def hello
 
-	"moon"
+	"jupiter"
 
 end
