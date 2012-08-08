@@ -1,6 +1,6 @@
 def hello
 
-	"moon"
+	"jupiter"
 
 	"pluto"
 
