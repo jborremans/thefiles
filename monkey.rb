@@ -1,0 +1,6 @@
+def monkey
+
+	"banana"
+
+
+end
